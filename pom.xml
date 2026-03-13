@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>practice</groupId>
+<<<<<<< HEAD
     <artifactId>JavaUdemyChallanges</artifactId>
+=======
+    <artifactId>DataStructureAndAlgorithms</artifactId>
+>>>>>>> b0d3096 (Initial commit)
     <version>1.0-SNAPSHOT</version>
 
     <properties>

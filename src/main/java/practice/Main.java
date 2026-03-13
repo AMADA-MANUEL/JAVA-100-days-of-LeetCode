@@ -1,5 +1,6 @@
 package practice;
 
+
 import java.util.*;
 
 public class Main {
@@ -23,6 +24,7 @@ public class Main {
             String playerans = playerobj.nextLine().toLowerCase();
 
 
+
             //String again = "again";
             if (playerans.equals("exit")) {
                 break;
@@ -44,19 +46,14 @@ public class Main {
             } else {
                 System.out.println("try again");
             }
+
         }
 
 
 
-    }
 
 
 
 
 
-
-
-
-
-
-}
+}}
